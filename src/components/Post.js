@@ -29,7 +29,7 @@ function Post({ displayName, username, verified, text, image, avatar }) {
           </div>
         </div>
         <img src="iph.jpg" alt=""></img>
-        <div className="post__headerDescription">
+        <div className="post__description">
           <p>
             This is a text for testing.Lorem ipsum dolor sit amet, consectetur
             adipiscing elit, sed do eiusmod tempor incididunt ut labore et

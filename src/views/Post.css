@@ -44,3 +44,9 @@
 .post__avatar {
   padding: 20px;
 }
+
+.post__description {
+  margin-bottom: 10px;
+  font-size: 15px;
+  max-width: 500px;
+}
