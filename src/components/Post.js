@@ -31,14 +31,24 @@ function Post({ displayName, username, verified, text, image, avatar }) {
         <img src="iph.jpg" alt=""></img>
         <div className="post__description">
           <p>
-            This is a text for testing.Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-            dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-            exercitation ullamco laboris nisi ut aliquip ex ea commodo
-            consequat. Duis aute irure dolor in reprehenderit in voluptate velit
-            esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-            cupidatat non proident, sunt in culpa qui officia deserunt mollit
-            anim id est laborum.
+            A river is a natural flowing watercourse, usually freshwater,
+            flowing towards an ocean, sea, lake or another river. In some cases,
+            a river flows into the ground and becomes dry at the end of its
+            course without reaching another body of water. Small rivers can be
+            referred to using names such as stream, creek, brook, rivulet, and
+            rill. There are no official definitions for the generic term river
+            as applied to geographic features,[1] although in some countries or
+            communities a stream is defined by its size. Many names for small
+            rivers are specific to geographic location; examples are "run" in
+            some parts of the United States, "burn" in Scotland and northeast
+            England, and "beck" in northern England. Sometimes a river is
+            defined as being larger than a creek,[2] but not always: the
+            language is vague.[1] Melting toe of Athabasca Glacier, Jasper
+            National Park, Alberta, Canada Rivers are part of the hydrological
+            cycle. Water generally collects in a river from precipitation
+            through a drainage basin from surface runoff and other sources such
+            as groundwater recharge, springs, and the release of stored water in
+            natural ice and snowpacks (e.g., from glaciers).
           </p>
         </div>
         <div className="post__footer">

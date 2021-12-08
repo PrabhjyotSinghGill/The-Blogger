@@ -46,6 +46,7 @@
 }
 
 .post__description {
+  margin-top: 10px;
   margin-bottom: 10px;
   font-size: 15px;
   max-width: 500px;
