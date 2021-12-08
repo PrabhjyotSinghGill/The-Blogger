@@ -25,7 +25,7 @@ function Post({ displayName, username, verified, text, image, avatar }) {
             </h3>
           </div>
           <div className="post__headerDescription">
-            <p>the-blogger</p>
+            <p>River Channel</p>
           </div>
         </div>
         <img src="iph.jpg" alt=""></img>
