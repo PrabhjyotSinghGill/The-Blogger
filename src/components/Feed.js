@@ -13,8 +13,8 @@ function Feed() {
       {/*PostBox*/}
       <PostBox></PostBox>
       {/*Post */}
-      <Post avatar="gill.jpg"></Post>
-      <Post avatar="gill.jpg"></Post>
+      <Post></Post>
+      <Post></Post>
     </div>
   );
 }
