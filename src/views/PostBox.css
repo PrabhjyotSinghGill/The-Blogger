@@ -27,7 +27,7 @@
 }
 
 .postBox__postButton {
-  background-color: var(--purple-color) !important;
+  background-color: var(--color) !important;
   border: none !important;
   color: white !important;
   font-weight: 900 !important;

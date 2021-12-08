@@ -7,14 +7,14 @@
 }
 
 .sidebar__heading {
-  color: var(--purple-color);
+  color: var(--color);
   font-size: 30px !important;
   margin-left: 20px;
   margin-bottom: 20px;
 }
 
 .sidebar__post {
-  background-color: var(--purple-color) !important;
+  background-color: var(--color) !important;
   border: none !important;
   color: white !important;
   font-weight: 900 !important;
