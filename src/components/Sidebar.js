@@ -15,7 +15,7 @@ import {Avatar, Button } from "@material-ui/core";
 
 function Sidebar(){
     return <div className="sidebar">
-        <div className="sidebar__heading"><Avatar className="avatar" src="gill1.jpg"></Avatar>Prabhjyot Singh Gill</div>
+        <div className="sidebar__heading"><Avatar className="avatar" src="gill.jpg"></Avatar>Prabhjyot Singh Gill</div>
         <SidebarOption active Icon={HomeIcon} text="Home"></SidebarOption>
         <SidebarOption Icon={SearchIcon} text="Explore"></SidebarOption>
         <SidebarOption Icon={NotificationsNoneIcon} text="Notifications"></SidebarOption>
