@@ -13,8 +13,24 @@ function Feed() {
       {/*PostBox*/}
       <PostBox></PostBox>
       {/*Post */}
-      <Post></Post>
-      <Post></Post>
+      <Post
+        displayName="Prabhjyot Singh Gill"
+        username="Prabhjyot.Singh.Gill"
+        verified={true}
+        text="its working"
+        avatar="gill.jpg"
+        image="iph.jpg"
+        blog="blog text"
+      ></Post>
+      <Post
+        displayName="Tim Cook"
+        username="tim.cook"
+        verified={true}
+        text="its working"
+        avatar="tc.jpg"
+        image="nat.jpg"
+        blog="blog text"
+      ></Post>
     </div>
   );
 }
