@@ -28,7 +28,7 @@ function Feed() {
         verified={true}
         text="its working"
         avatar="tc.jpg"
-        image="RR.jpg"
+        image="i.jpg"
         blog="blog text"
       ></Post>
       <Post
@@ -37,7 +37,7 @@ function Feed() {
         verified={true}
         text="its working"
         avatar="bg.jpg"
-        image="RR.jpg"
+        image="m.jpg"
         blog="blog text"
       ></Post>
     </div>
