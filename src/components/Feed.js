@@ -19,7 +19,7 @@ function Feed() {
         verified={true}
         text="its working"
         avatar="gill.jpg"
-        image="iph.jpg"
+        image="nat.jpg"
         blog="blog text"
       ></Post>
       <Post
@@ -28,7 +28,16 @@ function Feed() {
         verified={true}
         text="its working"
         avatar="tc.jpg"
-        image="nat.jpg"
+        image="RR.jpg"
+        blog="blog text"
+      ></Post>
+      <Post
+        displayName="Bill Gates"
+        username="bill.gates"
+        verified={true}
+        text="its working"
+        avatar="bg.jpg"
+        image="RR.jpg"
         blog="blog text"
       ></Post>
     </div>
