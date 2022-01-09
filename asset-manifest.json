@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/The-Blogger/static/css/main.99364453.chunk.css",
-    "main.js": "/The-Blogger/static/js/main.4ffeee95.chunk.js",
-    "main.js.map": "/The-Blogger/static/js/main.4ffeee95.chunk.js.map",
+    "main.js": "/The-Blogger/static/js/main.9f7925bc.chunk.js",
+    "main.js.map": "/The-Blogger/static/js/main.9f7925bc.chunk.js.map",
     "runtime-main.js": "/The-Blogger/static/js/runtime-main.8495575e.js",
     "runtime-main.js.map": "/The-Blogger/static/js/runtime-main.8495575e.js.map",
-    "static/js/2.ef4e0757.chunk.js": "/The-Blogger/static/js/2.ef4e0757.chunk.js",
-    "static/js/2.ef4e0757.chunk.js.map": "/The-Blogger/static/js/2.ef4e0757.chunk.js.map",
+    "static/js/2.85092a56.chunk.js": "/The-Blogger/static/js/2.85092a56.chunk.js",
+    "static/js/2.85092a56.chunk.js.map": "/The-Blogger/static/js/2.85092a56.chunk.js.map",
     "index.html": "/The-Blogger/index.html",
     "static/css/main.99364453.chunk.css.map": "/The-Blogger/static/css/main.99364453.chunk.css.map",
-    "static/js/2.ef4e0757.chunk.js.LICENSE.txt": "/The-Blogger/static/js/2.ef4e0757.chunk.js.LICENSE.txt"
+    "static/js/2.85092a56.chunk.js.LICENSE.txt": "/The-Blogger/static/js/2.85092a56.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8495575e.js",
-    "static/js/2.ef4e0757.chunk.js",
+    "static/js/2.85092a56.chunk.js",
     "static/css/main.99364453.chunk.css",
-    "static/js/main.4ffeee95.chunk.js"
+    "static/js/main.9f7925bc.chunk.js"
   ]
 }
